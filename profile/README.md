@@ -12,11 +12,23 @@ We built a serverless platform to build, deploy and how your nodejs apps.
 - 📚 [Docs: What is different about Cyclic?](https://docs.cyclic.sh/docs/intro)
 
 ### Social
+
+- Twitter: [@CyclicSoftware](https://twitter.com/cyclicsoftware)
+- LinkedIn: [Cyclic Software](https://www.linkedin.com/company/72983357)
+- Discord: [Cyclic server](https://discord.gg/huhcqxXCbE)
+
+
+<!--
+### Social
 - [![Cyclic Software Twitter](img/twitter-brands.svg) Cyclic Software on Twitter](https://twitter.com/cyclicsoftware)
 - [![Cyclic Software LinkedIn](img/linkedin-in-brands.svg) Cyclic Software on LikedIn](https://www.linkedin.com/company/72983357)
 - [![Cyclic Software Discord](img/discord-brands.svg) Cyclic Software on Discord](https://discord.gg/huhcqxXCbE)
 
 ### Popular posts
+
+- [Why https://www.cyclic.sh/posts/why-i-started-cyclic
+
+https://www.cyclic.sh/posts/we-sound-like-idiots-when-we-talk-about-technical-debt?utm_source=social&utm_medium=twitter&utm_campaign=direct
 
 <!--
 
