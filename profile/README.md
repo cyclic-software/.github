@@ -18,7 +18,6 @@ We built a serverless platform to build, deploy and how your nodejs apps. Try it
 
 - [Why I Started Cyclic](https://www.cyclic.sh/posts/why-i-started-cyclic?utm_source=social&utm_medium=github&utm_campaign=orgreadme): The reasons to build a new platform
 - [AWS S3: Why Sometimes You Should Press the $100k Button](https://www.cyclic.sh/posts/aws-s3-why-sometimes-you-should-press-the-100k-dollar-button?utm_source=social&utm_medium=github&utm_campaign=orgreadme)
-- [Why I Started Cyclic](https://www.cyclic.sh/posts/why-i-started-cyclic?utm_source=social&utm_medium=github&utm_campaign=org_readme)
 
 <!--
 ### Social
