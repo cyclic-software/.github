@@ -9,7 +9,7 @@ We built a serverless platform to build, deploy and how your nodejs apps. Try it
 
 ### Social
 
-- Twitter: [@CyclicSoftware](https://twitter.com/cyclicsoftware)
+- Twitter: [@Cyclic_sh](https://twitter.com/cyclic_sh)
 - LinkedIn: [Cyclic Software](https://www.linkedin.com/company/72983357)
 - Discord: [Cyclic server](https://discord.gg/huhcqxXCbE)
 
@@ -21,7 +21,7 @@ We built a serverless platform to build, deploy and how your nodejs apps. Try it
 
 <!--
 ### Social
-- [![Cyclic Software Twitter](img/twitter-brands.svg) Cyclic Software on Twitter](https://twitter.com/cyclicsoftware)
+- [![Cyclic Software Twitter](img/twitter-brands.svg) Cyclic Software on Twitter](https://twitter.com/cyclic_sh)
 - [![Cyclic Software LinkedIn](img/linkedin-in-brands.svg) Cyclic Software on LikedIn](https://www.linkedin.com/company/72983357)
 - [![Cyclic Software Discord](img/discord-brands.svg) Cyclic Software on Discord](https://discord.gg/huhcqxXCbE)
 
